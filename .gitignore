@@ -1,0 +1,6 @@
+# modules
+/node_modules
+# variables
+.env
+# production
+/build
